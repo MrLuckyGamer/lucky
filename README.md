@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Lucky</h1>
 
-<h3 align="center">Lua Developer • Discord Bot Developer • Website Developer</h3>
+<h3 align="center">Full-Stack Developer · Lua/GLua · Discord Bots · Source Engine Mapping</h3>
 
 ## 👨‍💻 &nbsp;Who Am I
 
-Hi, I'm Lucky, a 23-year-old developer from Australia. Welcome to my Github, where I showcase my work in various coding languages, including Lua/GLua, HTML, CSS, PHP, Python, and JavaScript. This platform serves as a portfolio of my projects. My goal is to help others strengthen their development skills, connect with like-minded individuals who share a passion for coding, and provide affordable code solutions for your projects and needs.
+Hi, I'm Lucky, a 23-year-old developer from Australia. Welcome to my Github, where I showcase my work in various coding languages, including Lua/GLua, HTML, CSS, PHP, Python, and JavaScript. This platform serves as both a portfolio of my projects and a community space for IT professionals and enthusiasts. My goal is to help others strengthen their development skills, connect with like-minded individuals who share a passion for coding, and provide affordable code solutions for your projects and needs.
 
 📫 **How to reach me:** *Check out the links below 👇*<br>
 💬 **Discord:** *luckyyyyyyyy*<br>
 🌐 **Website:** *[luckydev.xyz](https://luckydev.xyz)*<br>
+📧 **Email:** *contactluckydevelopment@gmail.com*<br>
 
 <br>
 
 ## 🛠️ &nbsp;My Skills
 
-I spend most of my free time coding and experimenting with different projects. I have 9 years of experience in website development and 7 years coding with Lua and GLua, specialising in Garry's Mod addons and game modifications. I create diverse Discord bots using Node.js and Discord.js, and I also build and design maps for Garry's Mod and Source Engine games using Hammer Editor.
+I spend most of my free time coding and experimenting with different projects. I have 9 years of experience in full-stack web development and 7 years coding with Lua and GLua, specialising in Garry's Mod addons and FiveM. I create diverse Discord bots using a range of languages and frameworks, and I build and design maps for Garry's Mod and Source Engine games using Hammer Editor. I also work with 3D tools including Blender and Substance Painter.
 
 ### 🧠 &nbsp;Languages
 
@@ -34,15 +35,16 @@ I spend most of my free time coding and experimenting with different projects. I
 ![MySQL](https://img.shields.io/badge/-MySQL-07183c?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-07183c?style=for-the-badge&logo=sqlite&logoColor=003B57)&nbsp;
 
-### 🧩 &nbsp;Frameworks & Platforms
+### 🧩 &nbsp;Frameworks & Libraries
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-07183c?style=for-the-badge&logo=bootstrap&logoColor=7952B3)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-07183c?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-07183c?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-07183c?style=for-the-badge&logo=nodedotjs&logoColor=339933)&nbsp;
-![Discord.js](https://img.shields.io/badge/-Discord.js-07183c?style=for-the-badge&logo=discord&logoColor=5865F2)&nbsp;
 ![React](https://img.shields.io/badge/-React-07183c?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-07183c?style=for-the-badge&logo=nodedotjs&logoColor=339933)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-07183c?style=for-the-badge&logo=bootstrap&logoColor=7952B3)&nbsp;
+![Discord.js](https://img.shields.io/badge/-Discord.js-07183c?style=for-the-badge&logo=discord&logoColor=5865F2)&nbsp;
 
-### 🧰 &nbsp;Tooling
+### 🧰 &nbsp;Tooling & Technologies
 
 ![Git](https://img.shields.io/badge/-Git-07183c?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-07183c?style=for-the-badge&logo=github&logoColor=181717)&nbsp;
@@ -51,6 +53,7 @@ I spend most of my free time coding and experimenting with different projects. I
 ![VS Code](https://img.shields.io/badge/-VS_Code-07183c?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)&nbsp;
 ![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-07183c?style=for-the-badge&logoColor=4479A1)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-07183c?style=for-the-badge&logo=blender&logoColor=F5792A)&nbsp;
+![Substance Painter](https://img.shields.io/badge/-Substance_Painter-07183c?style=for-the-badge&logo=adobe&logoColor=FF4B00)&nbsp;
 ![Source Engine](https://img.shields.io/badge/-Source_Engine-07183c?style=for-the-badge&logoColor=F74843)&nbsp;
 ![Hammer](https://img.shields.io/badge/-Hammer-07183c?style=for-the-badge&logoColor=000000)&nbsp;
 
@@ -63,13 +66,31 @@ A complete overhaul of the classic PropHunt gamemode for Garry's Mod, featuring 
 - **Tech Stack:** Lua/GLua, HTML, PHP, CSS, JavaScript
 - **Steam Workshop:** [View Gamemode](https://steamcommunity.com/sharedfiles/filedetails/?id=1758906555)
 
-### [Inasha Discord Bot](https://discord.com/oauth2/authorize?client_id=766211683684843550&permissions=8&scope=bot)
+### [Inasha Discord Bot](https://inasha.luckydev.xyz)
 A feature-rich Discord bot built with Node.js and Discord.js for server management and utility features.
+
+### [MINT Auto Styling Website](https://mint-as.com.au/)
+A website built for MINT Auto Styling.
+- **Tech Stack:** HTML, PHP, CSS
+
+### [Sovereign Roleplay](https://svn.gg)
+Website for the Sovereign Roleplay community.
+- **Tech Stack:** HTML, CSS
+
+### [Star Wars Inquisitorius](https://inq.luckydev.xyz)
+A website for the Star Wars Inquisitorius community.
+- **Tech Stack:** HTML, CSS, JavaScript
+
+### [QR Code Generator](https://qrgen.luckydev.xyz)
+A simple QR code generator tool.
+- **Tech Stack:** HTML, CSS, JavaScript
 
 ### Source Engine Maps
 Maps for Garry's Mod:
 - **rp_anaxes_gg** - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3222030009)
 - **rp_titan_rishi_alin_gg** - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3037513684)
+- **rp_anaxes_svn** - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3707166437)
+- **rp_batuu_svn** - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3707137640)
 
 <h3 align="center">🤝 &nbsp;Connect with Me</h3>
 
